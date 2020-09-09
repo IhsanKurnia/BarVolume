@@ -51,7 +51,9 @@
         android:id="@+id/btn_calculte"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hitung"/>
+        android:textColor="#fff"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/hitung" />
 
     <TextView
         android:id="@+id/iv_result"
